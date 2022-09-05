@@ -13,6 +13,6 @@ public class Kunde : IKunde
     }
     public void NewsletterAnKunde(Newsletter newsletter)
     {
-        throw new NotImplementedException();
+        Console.WriteLine($"{this.Name} hat den Newsletter {newsletter.Titel} erhalten.");
     }
 }

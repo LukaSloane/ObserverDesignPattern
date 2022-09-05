@@ -6,17 +6,17 @@ Console.WriteLine("Hello, World!");
 
 // Kunden
 
-Kunde Meier = new Kunde("Meier", "Hamburg");
-Kunde Schmidt = new Kunde("Schmidt", "Kiel");
+Kunde meier = new Kunde("Meier", "Hamburg");
+Kunde schmidt = new Kunde("Schmidt", "Kiel");
 
 // Newsletter
 Newsletter newsletter = new Newsletter("Pizza Hawaii", 10.50, 15);
 BlitzPizzaNewsletter blitzPizzaNewsletter = new BlitzPizzaNewsletter();
 blitzPizzaNewsletter.SetNewsletter(newsletter);
 
-blitzPizzaNewsletter.KundeHinzufuegen(Meier);
-Console.WriteLine($"Der Kunde {Meier.Name} wurde hinzugefügt.");
-blitzPizzaNewsletter.KundeHinzufuegen(Schmidt);
-Console.WriteLine($"Der Kunde {Schmidt.Name} wurde hinzugefügt.");
+blitzPizzaNewsletter.KundeHinzufuegen(meier);
+Console.WriteLine($"Der Kunde {meier.Name} wurde hinzugefügt.");
+blitzPizzaNewsletter.KundeHinzufuegen(schmidt);
+Console.WriteLine($"Der Kunde {schmidt.Name} wurde hinzugefügt.");
 
 blitzPizzaNewsletter.KundeBewerben(newsletter);

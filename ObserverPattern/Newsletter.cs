@@ -2,7 +2,7 @@ namespace ObserverPattern;
 
 public class Newsletter
 {
-    private string Titel;
+    public string Titel { get; private set; }
     private double Preis;
     private int Rabatt;
 
