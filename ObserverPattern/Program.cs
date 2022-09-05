@@ -5,9 +5,9 @@ using ObserverPattern;
 Console.WriteLine("Hello, World!");
 
 // Kunden
-
 Kunde meier = new Kunde("Meier", "Hamburg");
 Kunde schmidt = new Kunde("Schmidt", "Kiel");
+
 
 // Newsletter
 Newsletter newsletter = new Newsletter("Pizza Hawaii", 10.50, 15);
