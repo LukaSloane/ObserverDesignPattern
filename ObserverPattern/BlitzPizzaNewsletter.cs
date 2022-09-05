@@ -2,15 +2,15 @@ namespace ObserverPattern;
 
 public class BlitzPizzaNewsletter : BlitzPizzaLieferdienst
 {
-    private Newsletter GueltigeWerbung;
+    private Newsletter currentNewsletter;
 
     public void SetNewsletter(Newsletter newsletter)
     {
-        GueltigeWerbung = newsletter;
+        currentNewsletter = newsletter;
     }
 
     public Newsletter GetNewsletter()
     {
-        return GueltigeWerbung;
+        return currentNewsletter;
     }
 }

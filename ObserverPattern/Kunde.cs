@@ -1,9 +1,9 @@
 namespace ObserverPattern;
 
-public class Kunde : IKunde
+public class Kunde
 {
     public string Name { get; private set; }
-    public string Adresse { get; private set; }
+    private string Adresse;
 
 
     public Kunde(string name, string adresse)
@@ -13,6 +13,6 @@ public class Kunde : IKunde
     }
     public void NewsletterAnKunde(Newsletter newsletter)
     {
-        Console.WriteLine($"{this.Name} hat den Newsletter {newsletter.Titel} erhalten.");
+        Console.WriteLine($"Der Kunde {this.Name} hat den Newsletter {newsletter.Titel} erhalten.");
     }
 }
