@@ -13,6 +13,6 @@ public class Kunde
     }
     public void NewsletterAnKunde(Newsletter newsletter)
     {
-        Console.WriteLine($"Der Kunde {this.Name} hat den Newsletter {newsletter.Titel} erhalten.");
+        Console.WriteLine($"Der Kunde {this.Name} aus {this.Adresse} hat den Newsletter {newsletter.Titel} erhalten.");
     }
 }
