@@ -1,0 +1,15 @@
+/Users/lukasloane/RiderProjects/ObserverPattern/ObserverPattern/bin/Debug/net6.0/ObserverPattern
+/Users/lukasloane/RiderProjects/ObserverPattern/ObserverPattern/bin/Debug/net6.0/ObserverPattern.deps.json
+/Users/lukasloane/RiderProjects/ObserverPattern/ObserverPattern/bin/Debug/net6.0/ObserverPattern.runtimeconfig.json
+/Users/lukasloane/RiderProjects/ObserverPattern/ObserverPattern/bin/Debug/net6.0/ObserverPattern.dll
+/Users/lukasloane/RiderProjects/ObserverPattern/ObserverPattern/bin/Debug/net6.0/ObserverPattern.pdb
+/Users/lukasloane/RiderProjects/ObserverPattern/ObserverPattern/obj/Debug/net6.0/ObserverPattern.csproj.AssemblyReference.cache
+/Users/lukasloane/RiderProjects/ObserverPattern/ObserverPattern/obj/Debug/net6.0/ObserverPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukasloane/RiderProjects/ObserverPattern/ObserverPattern/obj/Debug/net6.0/ObserverPattern.AssemblyInfoInputs.cache
+/Users/lukasloane/RiderProjects/ObserverPattern/ObserverPattern/obj/Debug/net6.0/ObserverPattern.AssemblyInfo.cs
+/Users/lukasloane/RiderProjects/ObserverPattern/ObserverPattern/obj/Debug/net6.0/ObserverPattern.csproj.CoreCompileInputs.cache
+/Users/lukasloane/RiderProjects/ObserverPattern/ObserverPattern/obj/Debug/net6.0/ObserverPattern.dll
+/Users/lukasloane/RiderProjects/ObserverPattern/ObserverPattern/obj/Debug/net6.0/refint/ObserverPattern.dll
+/Users/lukasloane/RiderProjects/ObserverPattern/ObserverPattern/obj/Debug/net6.0/ObserverPattern.pdb
+/Users/lukasloane/RiderProjects/ObserverPattern/ObserverPattern/obj/Debug/net6.0/ObserverPattern.genruntimeconfig.cache
+/Users/lukasloane/RiderProjects/ObserverPattern/ObserverPattern/obj/Debug/net6.0/ref/ObserverPattern.dll
